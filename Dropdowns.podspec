@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "Dropdowns"
   s.summary          = "Dropdown in Swift"
-  s.version          = "2.0.0"
+  s.version          = "2.0.1"
   s.homepage         = "https://github.com/hyperoslo/Dropdowns"
   s.license          = 'MIT'
   s.author           = { "Hyper Interaktiv AS" => "ios@hyper.no" }
