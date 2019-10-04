@@ -4,7 +4,7 @@ Dropdown in Swift
 [![Version](https://img.shields.io/cocoapods/v/Dropdowns.svg?style=flat)](http://cocoadocs.org/docsets/Dropdowns)
 [![License](https://img.shields.io/cocoapods/l/Dropdowns.svg?style=flat)](http://cocoadocs.org/docsets/Dropdowns)
 [![Platform](https://img.shields.io/cocoapods/p/Dropdowns.svg?style=flat)](http://cocoadocs.org/docsets/Dropdowns)
-![Swift](https://img.shields.io/badge/%20in-swift%204.0-orange.svg)
+![Swift](https://img.shields.io/badge/%20in-swift%205.0-orange.svg)
 
 <div align="center">
 	<img src="Screenshots/dropdown.gif" height="400" />
@@ -59,7 +59,7 @@ pod 'Dropdowns'
 To install just write into your Cartfile:
 
 ```ruby
-github "hyperoslo/Dropdowns"
+github "onmyway133/Dropdowns"
 ```
 
 **Dropdowns** can also be installed manually. Just download and drop `Sources` folders in your project.
@@ -74,8 +74,8 @@ github "hyperoslo/Dropdowns"
 
 ## Contributing
 
-We would love you to contribute to **Dropdowns**, check the [CONTRIBUTING](https://github.com/hyperoslo/Dropdown/blob/master/CONTRIBUTING.md) file for more info.
+We would love you to contribute to **Dropdowns**, check the [CONTRIBUTING](https://github.com/onmyway133/Dropdown/blob/master/CONTRIBUTING.md) file for more info.
 
 ## License
 
-**Dropdowns** is available under the MIT license. See the [LICENSE](https://github.com/hyperoslo/Dropdown/blob/master/LICENSE.md) file for more info.
+**Dropdowns** is available under the MIT license. See the [LICENSE](https://github.com/onmyway133/Dropdown/blob/master/LICENSE.md) file for more info.
